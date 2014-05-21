@@ -1,0 +1,15 @@
+{
+    "name": "Mediabook : Bienvenue au Javascriptan",
+    "version": "0.0.1",
+    "description": "Une perilleuse aventure de navigateur",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/erixtekila/mediabook-js-init.git"
+    },
+    "author": "Eric Priou <erixtekila@gmail.com>",
+    "license": "Apache 2",
+    "dependencies": {},
+    "devDependencies": {
+        "gitbook-plugin-autocover": "0.0.5"
+    }
+}
