@@ -1,17 +1,18 @@
 # Passeport pour le Javascriptan
 
 
-Vous débarquez sur une terre inconnue : **le javascriptan**.
-Tout y est nouveau, et vous n'êtes pas au bout de vos peines, car un chemin semé d'enbuches vous attend ! Preuve en sont ces témoignages de vieux programmeurs, y perdant leurs anciens repères. 
+Vous dÃ©barquez sur une terre inconnue : **le javascriptan**.
+Tout y est nouveau, et vous n'Ãªtes pas au bout de vos peines, car un chemin semÃ© d'embuches vous y attend !  
+Preuve s'il en est : ces tÃ©moignages de vieux dÃ©veloppeurs y perdant tout leurs repÃ¨res. 
 
-Toutefois, si vous décidez d'aller sur ce chemin, des merveilleuses rencontres et mystères vous seront dévoilés. Sachez être patients et pugnaces.
+Toutefois, si vous dÃ©cidez d'aller sur ce chemin, des merveilleuses rencontres et mystÃ¨res vous seront dÃ©voilÃ©s. Sachez Ãªtre patients et pugnaces.
 
-1. Tout d'abord, il va falloir apprendre **la grammaire lexicale** de cet étrange langage.  
-Il peut en effet ressembler à d'autres plus usuels tels que le C++ ou la Java. Mais, dans les faits, il n'en est rien.
-2. Ensuite, maîtriser de drôles de **structures**, bien trop imbriquées parfois : boucles, conditions, ...  
-véritable casse-tête chinois.
-3. Ces éléments simples, vont libérer votre **expression**, base de la conversation.
-4. Et peut-être enfin aurons-nous la chance de rencontrer une des instances suprême du royaume :  
+1. Tout d'abord, il va falloir apprendre **la grammaire lexicale** de cet Ã©trange langage.  
+Il peut en effet ressembler Ã  d'autres plus usuels tels que le C++ ou la Java. Mais, dans les faits, il n'en est rien.
+2. Ensuite, maÃ®triser de drÃ´les de **structures**, bien trop imbriquÃ©es parfois : boucles, conditions, ...  
+vÃ©ritable casse-tÃªte chinois.
+3. Ces Ã©lÃ©ments simples, vont libÃ©rer votre **expression**, base de la conversation.
+4. Et peut-Ãªtre enfin aurons-nous la chance de rencontrer une des instances suprÃªmme du royaume :  
 **la machine virtuelle** et **son cycle infini**. 
-5. Le reste de votre périple sera dicté par vos **orientations**, soit **objets**, soit **fonctionnelles**, soit les deux (?!).  
-Pure histoire de goût.
+5. Le reste de votre pÃ©riple sera dictÃ© par vos **orientations**, soit **objets**, soit **fonctionnelles**, soit les deux (?!).  
+Pure histoire de goÃ»t.
