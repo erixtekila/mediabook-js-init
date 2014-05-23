@@ -77,4 +77,6 @@
    * [Données asynchrones](AJAX/async.md)
    * [JSON](AJAX/JSON.md)
    * [Exercice : le pendu dynamique](AJAX/hangman-04.md)
-* [Historique éditorial](CHANGES.md)
+* [A propos de ce livre](apropos/README.md)
+   * [Mediabook](apropos/mediabook.md)
+   * [Historique éditorial](apropos/CHANGES.md)
